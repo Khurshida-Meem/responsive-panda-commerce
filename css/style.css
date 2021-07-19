@@ -5,6 +5,9 @@ nav{
     background-color: #fceae8;
     border-radius: 10px;
 }
+.border-radius{
+    border-radius: 10px;
+}
 .price {
     color: #FF136F;
 }
@@ -17,4 +20,7 @@ nav{
 }
 .watch-catagory-bg{
     background-color: orange;
+}
+.box-shadow{
+    box-shadow: 5px 5px 10px lightgrey;
 }
